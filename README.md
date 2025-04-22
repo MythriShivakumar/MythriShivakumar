@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Currently working on my F1 Race Prediction Model and pursuing a Master’s in Computer Science at the University at Buffalo<br>👯 Looking to collaborate on innovative AI and data engineering projects<br>🌱 Deepening my expertise in time‑series analysis and deep learning<br>💬 Ask me about my F1 Race Prediction Model, where I forecast outcomes for the 2025 Grand Prix season<br>📫 Email: mythrish@buffalo.edu | LinkedIn: linkedin.com/in/mythrishivakumar<br>😄 Pronouns: She/Her
+🔭 Currently working on my F1 Race Prediction Model and pursuing a Master’s in Computer Science at the University at Buffalo<br>👯 Looking to collaborate on innovative AI and data engineering projects<br>🌱 Deepening my expertise in time‑series analysis and deep learning<br>💬 Ask me about my F1 Race Prediction Model, where I forecast outcomes for the 2025 Grand Prix season<br>📫 [mythrish@buffalo.edu](mailto:mythrish@buffalo.edu) | [LinkedIn](linkedin.com/in/mythrishivakumar)  <br>😄 Pronouns: She/Her
 
 
 ## 🌐 Socials:
