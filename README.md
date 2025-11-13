@@ -42,7 +42,7 @@ Currently pursuing my **Master’s in Computer Science at the University at Buff
 ## 🚀 Current Focus
 - Building **AI-first applications** that combine creativity, structure, and scalability  
 - Developing **multi-modal models** for vision and text understanding  
-- Experimenting with **emoji generation using VAEs** and **data-driven social good tools** like *ShareCycle*  
+- Creating **data-driven social good tools** like *ShareCycle*  
 
 ---
 
