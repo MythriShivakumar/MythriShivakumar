@@ -8,7 +8,7 @@ Currently pursuing my **Master’s in Computer Science at the University at Buff
 🎓 Exploring **representation learning, generative models, and real-time ML systems**  
 💡 Interested in **AI safety, multi-modal learning, and intelligent automation**  
 🤝 Always open to collaborating on projects that push the boundaries of **data-driven innovation**  
-📫 Reach me at [geetamythri27@gmail.com](mailto:geetamythri27@gmail.com) or connect on [LinkedIn]([https://www.linkedin.com/in/mythri-shivakumar-49a254196/](https://www.linkedin.com/in/mythri-shivakumar/))  
+📫 Reach me at [geetamythri27@gmail.com](mailto:geetamythri27@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/mythri-shivakumar/)  
 🌐 Portfolio: [mythrishivakumar.github.io/CV/](https://mythrishivakumar.github.io/CV/)  
 😄 Pronouns: She/Her  
 
